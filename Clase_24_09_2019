@@ -1,0 +1,31 @@
+cd "nombre_de_carpeta_archivo"
+git branch "co_nombre_de_archivo"
+git checkout "co_nombre_de_archivo"
+
+--- > Copiar archivo python dentro de la carpeta del archivo.
+---> Para ejecutar el archivo python "nombre_del_py"
+
+git add "nombre_del_archivo"
+
+
+git config user.name "César Orellana"
+
+git config user.email "ce.orellanaa@alumnos.duoc.cl"
+
+
+git commit -m "agregamos el hola mundo"
+
+
+----> git commit se realiza para un dejar un comentario "el comentario va entre comillas"
+
+
+----> con checkout nos cambiamos de rama
+
+----> git pull, para los cambios que esten haciendo en el proyecto.
+
+---> git merge co_hola_mundo, trae el programa que estoy haciendo al msater
+
+---> git push, para subirla a la nuve
+
+
+---> git branch -d cd_hola_mundo
