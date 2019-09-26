@@ -29,3 +29,17 @@ git commit -m "agregamos el hola mundo"
 
 
 ---> git branch -d cd_hola_mundo
+
+
+
+
+
+#para terminar las cosas....
+#git add ejemplo_funciones.py
+#git commit -m "agregamos ejemplos de uso de funciones"
+#git checkout master
+#git pull
+#git merge co_ejemplo_funcion
+#git push
+#git branch -d co_ejemplo_funcion
+
